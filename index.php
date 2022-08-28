@@ -39,6 +39,8 @@
         </div>
     </section>
 
+    <?php echo"Hello World" ?>
+
     <script src="navSlide.js"></script>
     <script src="createParty.js"></script>
 </body>
